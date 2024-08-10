@@ -18,7 +18,7 @@ body {
 
 .p {
     transform: translate(-50%, -50%);
-    font-size: 24px;
+    font-size: 25px;
     font-weight: bold;
     text-shadow: 2px 2px 4px #000000;
 }
@@ -91,7 +91,7 @@ body {
 #Login {
     display: flex;
     flex-direction: column;
-    align-items: center; /* Alineación centrada */
+    align-items: center; 
     grid-column: 1/9;
     width: 100%;
 }
@@ -100,7 +100,7 @@ body {
     color: gray;
     display: flex;
     flex-direction: column;
-    align-items: center; /* Alineación centrada */
+    align-items: center; 
     margin-top: 10px;
     width: 100%;
 }
@@ -113,7 +113,7 @@ body {
     color: black;
     font-size: 1.5rem;
     font-weight: 900;
-    width: 100%; /* Alineación centrada */
+    width: 100%; 
     max-width: 30rem;
     margin-top: 5px;
 }

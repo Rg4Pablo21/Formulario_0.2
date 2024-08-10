@@ -11,7 +11,7 @@ let formulario = [
     {nombre: "Formulario De Busqueda", link: "Componentes/FormularioDeBusqueda/DeBusqueda.html"},
     {nombre: "Formulario De Registro", link: "Componentes/FormularioDeRegistro/DeRegistro.html"},
     {nombre: "Formulario De Contacto", link: "Componentes/FormularioDeContacto/DeContacto.html"},
-    {nombre: "Formulario de comentarios", link:"Componentes/FormularioDecomentarios/Decomentarios"}
+    {nombre:"Formulario De Comentarios",link:"Componentes/FormularioComentarios/DeComentarios.html"}
 ];
 
 formulario.forEach(itemLista => {
